@@ -20,7 +20,8 @@
     "url": "https://github.com/jhill-amaze/node-express-bp/issues"
   },
   "homepage": "https://github.com/jhill-amaze/node-express-bp#readme",
-  "devDependencies": {
+  "devDependencies": {},
+  "dependencies": {
     "express": "^4.17.1"
   }
 }
